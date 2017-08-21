@@ -1,0 +1,25 @@
+=============== LOG ENTRY BEGIN ===============
+Mon Aug 21 2017 15:51:00 GMT-0400 (Eastern Daylight Time)
+ 
+TERMINAL COMMANDS:
+$: C:\Program Files\nodejs\node.exe,C:\Users\Rotcher\Desktop\liri-node-app\liri.js,my-tweets
+ 
+DATA OUTPUT:
+1. Tweet: I'm such a rebel
+Created at: Fri Aug 18 14:54:57 +0000 2017 
+2. Tweet: Tweeting in class
+Created at: Fri Aug 18 14:54:40 +0000 2017 
+=============== LOG ENTRY END ===============
+ 
+1. Tweet: I'm such a rebel
+Created at: Fri Aug 18 14:54:57 +0000 2017 
+2. Tweet: Tweeting in class
+Created at: Fri Aug 18 14:54:40 +0000 2017 
+1. Tweet: I'm such a rebel
+Created at: Fri Aug 18 14:54:57 +0000 2017 
+2. Tweet: Tweeting in class
+Created at: Fri Aug 18 14:54:40 +0000 2017 
+Tweet: I'm such a rebel
+Created at: Fri Aug 18 14:54:57 +0000 2017 
+Tweet: Tweeting in class
+Created at: Fri Aug 18 14:54:40 +0000 2017 
